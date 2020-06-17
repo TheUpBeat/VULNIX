@@ -81,4 +81,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "post"
     name       = "Posts"
-    url        = "/posts/"
+    url        = "posts/"
