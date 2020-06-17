@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: "2020-06-17T19:33:42+05:30"
-draft: true
+draft: false
 toc: false
 images:
 tags:
