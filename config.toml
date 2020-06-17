@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "VULNIX"
 theme="hello-friend-ng"
@@ -81,4 +81,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "post"
     name       = "Posts"
-    url        = "posts/"
+    url        = "/posts/"
