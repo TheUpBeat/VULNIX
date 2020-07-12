@@ -1,12 +1,11 @@
 ---
-title: "control groups (cgroups) - The Limiter Part I"
+title: "control groups (cgroups) - Introduction"
 date: 2020-06-17T10:30:00+05:30
 draft: false
 toc: false
 images:
 tags:
   - Linux
-  - Security
   - Containers
   - cgroups
 ---
