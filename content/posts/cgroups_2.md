@@ -1,12 +1,11 @@
 ---
-title: "control groups (cgroups) - The Limiter Part II"
+title: "control groups (cgroups) - CPUACCT"
 date: 2020-06-23T18:00:23+05:30
 draft: false
 toc: false
 images:
 tags:
   - Linux
-  - Security
   - Containers
   - cgroups
 ---
