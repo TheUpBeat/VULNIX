@@ -1,6 +1,7 @@
 <header class="header">
     <span class="header__inner">
         {{ partial "logo.html" . }}
+        {{ partial "seo_schema" . }}
 
         <span class="header__right">
             {{ if len .Site.Menus }}
@@ -17,5 +18,3 @@
         </span>
     </span>
 </header>
-
-
